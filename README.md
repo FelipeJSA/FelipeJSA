@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FelipeJSA or Felipe José da Silva Albino
 - 👀 I’m interested in learning new technologies 
-- 🌱 I’m currently learning JAVA and PYTHON 
+- 🌱 I’m currently learning PYTHON 
 - 📫 How to reach me, i´m on Linkedin or Instagram 
 - LINKEDIN: https://www.linkedin.com/in/felipe-jos%C3%A9-da-silva-albino-3946bb49/
 - INSTAGRAM: felipesilva_9007
